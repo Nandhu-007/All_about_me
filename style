@@ -1,0 +1,51 @@
+body {
+  font-family: 'Playfair Display', serif; 
+  margin: 100;
+  padding: 100;
+  line-height: 1.6;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url('"A:\CHAND\Downloads\360_F_568799898_O1NT8R5arwsSbUuJZow1575NbzPpnqB4.jpg"'); 
+  background-size: cover;
+  background-position: center ;
+  color: #fff;                
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #e580ff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #3366ff;
+  text-decoration: italics;
+}
+
+a:hover {
+  text-decoration: underline;
+}
