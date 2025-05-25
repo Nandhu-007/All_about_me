@@ -39,7 +39,7 @@ header{
 
 section{
     min-height: 100vh;
-    padding: 5rem 9% 5rem;
+    padding: 2rem 9% 2rem;
 }
 
 .home{
@@ -68,24 +68,6 @@ span{
 
 .home-content p{
     font-size: 1.6rem;
-}
-
-.home-img{
-    border-radius: 50%;
-}
-
-.home-img img{
-    position: relative;
-    width: 32vw;
-    border-radius: 50%;
-    box-shadow: 0 0 25px solid #8806CE;
-    cursor: pointer;
-    transition: 0.2s linear;
-}
-
-.home-img img:hover{
-    font-size: 1.8rem;
-    font-weight: 500;
 }
 
 .typing-text{
