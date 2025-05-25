@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    border: none;
-    outline: none;
-    font-family: 'Poppins', sans-serif;
-}
-
 html{
     font-size: 70%;
 }
@@ -21,22 +11,6 @@ body{
     color: white;
 }
 
-header{
-    margin-top: 20px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 1rem 9%;
-    background-color: transparent;
-    filter: drop-shadow(10px);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    z-index: 100;
-}
-
-
 section{
     min-height: 100vh;
     padding: 2rem 9% 2rem;
@@ -46,7 +20,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 8rem;
+    gap: 2rem;
     background-color: black;
 }
 
@@ -113,8 +87,11 @@ span{
     41%, 60%{
         content: "Coder";
     }
-    60%, 100%{
+    61%, 80%{
         content: "High School Student";
+    }
+    81%,100%{
+        content: "CAT LOVER";
     }
 }
 h2{  font-size: 4rem;
