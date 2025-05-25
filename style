@@ -9,7 +9,7 @@ body {
 
 header {
   header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("360_F_568799898_O1NT8R5arwsSbUuJZow1575NbzPpnqB4.jpg"); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("image.jpg"); 
   background-size: cover;
   background-position: center ;
   color: #fff;                
