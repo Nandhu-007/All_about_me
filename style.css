@@ -11,6 +11,9 @@ body{
     height: 100vh;
     background-color: black;
     color: white;
+}
+
+section{
     min-height: 100vh;
     padding: 2rem 9% 2rem;
 }
