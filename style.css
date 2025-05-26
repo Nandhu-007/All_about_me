@@ -72,25 +72,31 @@ span{
 
 @keyframes cursor{
     to{
-        border-left: 3px solid #8806CE;
+        border-left: 3px solid;
     }
 }
 
 @keyframes words{
     0%, 20%{
         content: "Graphic Designer";
+        color: #8806CE;
     }
     21%, 40%{
         content: "Photographer";
+         color: #ff0000;
+;
     }
     41%, 60%{
         content: "Coder";
+         color: #0066ff;
     }
     61%, 80%{
         content: "High School Student";
+         color: #00ff00;
     }
     81%,100%{
         content: "CAT LOVER";
+         color: #ff00ff;
     }
 }
 h2{  font-size: 4rem;
